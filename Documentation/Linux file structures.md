@@ -43,6 +43,10 @@
 
 **/opt** : "optional" software. third party packages (often big ones like google chrome, VMware, etc.)
 
+## Graphic structure
+
+<img width="1817" height="1001" alt="image" src="https://github.com/user-attachments/assets/e96f5270-0e63-425b-b142-fafb01057074" />
+
 ## Mnemonic
 
 "Every Big Server Lets Robots Eat Hard Metal Pipes Securely"
